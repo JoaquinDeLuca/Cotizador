@@ -2,6 +2,11 @@
 
 App construida con **Next.js**, **Prisma** y **PostgreSQL**.
 
+#### Usuario de prueba
+
+- m.lopez@solucionesandes.com.ar
+- Martalopez321
+
 ## 🛠️ Desarrollo local
 
 ### 1. Clonar el proyecto y configurar el entorno
